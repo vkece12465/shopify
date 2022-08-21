@@ -6,7 +6,7 @@
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-orange)
 
-[Rode Clone](https://vinod-shopify.netlify.app/)
+[Shopify Clone](https://vinod-shopify.netlify.app/)
 
 >  I learned from this project
     -   More about tailwind concepts navbars navbar properties, some animations, flex box, grid systems properties and positions and more and more tailwind classes.
